@@ -1,7 +1,3 @@
-pip install yfinance
-
-pip install plotly
-
 import streamlit as st, pandas as pd, numpy as np, yfinance as yf
 import plotly.express as px
 import datetime
